@@ -1,0 +1,65 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Event">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="On Going Event"
+            android:textSize="30sp"
+            android:textAlignment="center"
+            android:padding="10dp"
+            android:textStyle="bold">
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3000 Followers instagram giveaway"
+            android:textSize="20sp"
+            android:padding="10dp">
+
+        </TextView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ga"
+            android:padding="10dp">
+
+        </ImageView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="How TO Join"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:textAlignment="center">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Like postingan mengenai give away di instagram kami \n2. Follow Instagram kami \n3. Komentar (GO3K) dan tag 3 teman kamu \n 3. Subscribe youtube channel toreroesport channel"
+            android:padding="10dp"
+            android:textSize="10sp">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pemenang akan diumumkan di story ketika followers mencapai angka 3K"
+            android:textSize="20sp"
+            android:padding="10sp"
+            android:textAlignment="center">
+
+        </TextView>
+    </LinearLayout>
+</ScrollView>

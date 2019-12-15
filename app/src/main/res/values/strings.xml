@@ -1,0 +1,21 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ToreroAPPs</string>
+    <string name="ff">Divisi FreeFire</string>
+    <string name="pubgm">Divisi Pubgmobile</string>
+    <string name="name">Name</string>
+    <string name="ukuran">Ukuran</string>
+    <string name="s">S</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="xl">XL</string>
+    <string name="quan">Quantity</string>
+    <string name="initial_quantity_value">0</string>
+    <string name="order">Order</string>
+    <string name="order_summary_name">Name: <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="order_summary_ukuran">Jumlah sweater setiap ukuran <xliff:g example="Amy" id="ukuran">%s</xliff:g></string>
+    <string name="order_summary_quantity">Jumlah <xliff:g example="2" id="quantity">%d</xliff:g></string>
+    <string name="order_summary_price">Total: <xliff:g example="$10" id="price">%s</xliff:g></string>
+    <string name="thank_you">Thanks guys for the order !</string>
+    <string name="order_summary_email_subject">Just Java Order <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="title_activity_gmaps">Map</string>
+</resources>
